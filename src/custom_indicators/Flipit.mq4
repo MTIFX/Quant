@@ -16,7 +16,7 @@
 #property indicator_chart_window    // Indicator is drawn in the main window
 #property indicator_buffers 2       // Number of buffers
 #property indicator_color1 Blue     // Color of the 1st line
-#property indicator_color2 Red      // Color of the 2nd line
+#property indicator_color2 Green      // Color of the 2nd line
 
 extern int Periods = 14; 
 extern int Pips = 5; 
