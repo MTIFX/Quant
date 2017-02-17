@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                    ClassTest.mq4 |
+//|                                                    TripleMTF.mq4 |
 //|                         Copyright 2016, Market Traders Institute |
 //|                              http://education.markettraders.com/ |
 //+------------------------------------------------------------------+
