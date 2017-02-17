@@ -12,6 +12,9 @@
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
 
+// SL = 20
+// TP = 60
+// Risk = 2% 
 
 #include <Library.mqh>
 
